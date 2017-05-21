@@ -93,7 +93,7 @@
 
 ul.tabs{
 	margin: 0px;
-  padding-left: none;
+  padding-left: 0px;
 	list-style: none;
 	color: #222;
 }
