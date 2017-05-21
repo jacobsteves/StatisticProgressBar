@@ -1,4 +1,8 @@
 <html>
+	<link rel="stylesheet" href="skillbar.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="skillbar.js"></script>
+	
 	<h3>Programming Language Progress Bars</h3>
 	<div id="skillbars">
 	  <div class="skillbar clearfix " data-percent="95%">
