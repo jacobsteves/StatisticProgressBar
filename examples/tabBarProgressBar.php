@@ -41,6 +41,15 @@ require("../progressbar.php");
 		createSkillbar("AngularJS", 75, "#4288d0");
 		?>
 	</div>
+	<div id="tab-4" class="tab-content">
+		<?php
+		createSkillbar("English", 90, "#2c3e50");
+		createSkillbar("French", 70, "#f1e05a");
+		createSkillbar("Spanish", 15, "#dad8d8");
+		createSkillbar("Mandarin", 5, "#555555");
+		createSkillbar("Code", 100, "#4288d0");
+		?>
+	</div>
 
 </div>
 </html>

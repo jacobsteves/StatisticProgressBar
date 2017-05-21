@@ -7,6 +7,7 @@ require("../progressbar.php");
 		<li class="tab-link current" data-tab="tab-1">Languages</li>
 		<li class="tab-link" data-tab="tab-2">IDEs</li>
 		<li class="tab-link" data-tab="tab-3">Frameworks/etc</li>
+		<li class="tab-link" data-tab="tab-4">IRL Languages</li>
 	</ul>
 	<div id="tab-1" class="tab-content current">
 			<div class="skillbar clearfix " data-percent="95%">
@@ -135,6 +136,37 @@ require("../progressbar.php");
 				<div class="skillbar-title" style="background: #124e8c;"><span>angularJS</span></div>
 				<div class="skillbar-bar" style="background: #4288d0;"></div>
 				<div class="skill-bar-percent">75%</div>
+			</div> <!-- End Skill Bar -->
+	</div>
+	<div id="tab-4" class="tab-content">
+			<div class="skillbar clearfix " data-percent="90%">
+				<div class="skillbar-title" style="background: #2c3e50;"><span>English</span></div>
+				<div class="skillbar-bar" style="background: #2c3e50;"></div>
+				<div class="skill-bar-percent">90%</div>
+			</div> <!-- End Skill Bar -->
+
+			<div class="skillbar clearfix " data-percent="70%">
+				<div class="skillbar-title" style="background: #a89c3e;"><span>French</span></div>
+				<div class="skillbar-bar" style="background: #f1e05a;"></div>
+				<div class="skill-bar-percent">70%</div>
+			</div> <!-- End Skill Bar -->
+
+			<div class="skillbar clearfix " data-percent="15%">
+				<div class="skillbar-title" style="background: #aeacac;"><span>Spanish</span></div>
+				<div class="skillbar-bar" style="background: #dad8d8;"></div>
+				<div class="skill-bar-percent">15%</div>
+			</div> <!-- End Skill Bar -->
+
+			<div class="skillbar clearfix " data-percent="5%">
+				<div class="skillbar-title" style="background: #444444;"><span>Mandarin</span></div>
+				<div class="skillbar-bar" style="background: #555555;"></div>
+				<div class="skill-bar-percent">5%</div>
+			</div> <!-- End Skill Bar -->
+
+			<div class="skillbar clearfix " data-percent="100%">
+				<div class="skillbar-title" style="background: #124e8c;"><span>Code</span></div>
+				<div class="skillbar-bar" style="background: #4288d0;"></div>
+				<div class="skill-bar-percent">100%</div>
 			</div> <!-- End Skill Bar -->
 	</div>
 
