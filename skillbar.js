@@ -6,7 +6,7 @@ jQuery(document).ready(function(){
 			width:jQuery(this).attr('data-percent')
 		},6000);
 	});
-	
+
 	// This function gets called whenever a tab gets clicked
 	//     - switches current viewed tab to the tab corresponding
 	//       to the tab clicked

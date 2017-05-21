@@ -1,9 +1,10 @@
 <html>
+<!-- This file shows how the progress bar could have been called in HTML without the PHP function. -->
 	<link rel="stylesheet" href="skillbar.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="skillbar.js"></script>
-	
-	<h3>Programming Language Progress Bars</h3>
+
+	<h3>Hard Coding</h3>
 	<div id="skillbars">
 	  <div class="skillbar clearfix " data-percent="95%">
 	    <div class="skillbar-title" style="background: #d35400;"><span>HTML5</span></div>
