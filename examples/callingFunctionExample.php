@@ -1,7 +1,11 @@
 <html>
 	<!-- This file shows how the progress bar is called using the PHP function -->
-	<?php require("progressbar.php"); ?>
+	<?php require("../progressbar.php"); ?>
 
+	<link rel="stylesheet" href="../assets/css/skillbar.css" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="../assets/js/skillbar.js"></script>
+	
 	<h3>Calling the function</h3>
 	<div id="skillbars">
 		<?php

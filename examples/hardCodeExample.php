@@ -1,8 +1,8 @@
 <html>
 <!-- This file shows how the progress bar could have been called in HTML without the PHP function. -->
-	<link rel="stylesheet" href="assets/css/skillbar.css" />
+	<link rel="stylesheet" href="../assets/css/skillbar.css" />
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="assets/js/skillbar.js"></script>
+	<script src="../assets/js/skillbar.js"></script>
 
 	<h3>Hard Coding</h3>
 	<div id="skillbars">

@@ -5,11 +5,11 @@
 }
 
 #skill-explain {
-  float:left; 
+  float:left;
   margin-right:20px;
   width:25em;
 }
-#skillbars { 
+#skillbars {
   overflow:hidden;
 }
 
@@ -93,12 +93,13 @@
 
 ul.tabs{
 	margin: 0px;
+  padding-left: none;
 	list-style: none;
-	color: #fff;
+	color: #222;
 }
 ul.tabs li{
-	background: none;
-	color: #fff;
+	background: #fff;
+	color: #222;
 	display: inline-block;
 	padding: 10px 15px;
 	cursor: pointer;
@@ -116,19 +117,20 @@ ul.tabs li.current{
 
 .tab-content.current{
 	display: inherit;
+  background-color: #ededed;
 }
 
 @media screen and (max-width: 915px) {
-   #skillbars { 
+   #skillbars {
     float: none;
     margin-right:0;
     width:100%;
-    border:0;   
+    border:0;
   }
-  #skill-explain { 
+  #skill-explain {
     float: none;
     margin-right:0;
     width:100%;
-    border:0;   
+    border:0;
   }
 }
