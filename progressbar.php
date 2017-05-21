@@ -1,7 +1,7 @@
 <html>
-<link rel="stylesheet" href="skillbar.css" />
+<link rel="stylesheet" href="assets/css/skillbar.css" />
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="skillbar.js"></script>
+<script src="assets/js/skillbar.js"></script>
 <?php
 	function createSkillbar($val, $percent, $colour) {
 		echo "<div class='skillbar clearfix' data-percent='" . $percent . "%'>
